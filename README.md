@@ -11,21 +11,37 @@ This project is a clone of https://www.netflix.com/in/ . Netflix Clone was found
 
 ## Functional Things :
 
-- User Signup Popup/model.
-- User Login Popup/model.
+- Manage profile, Setting, Pricing Plan
+- User Login and Logout.
 - Navbar Using Import Export Modules.
-- Products Page.
+- All movies List.
 - Quick View Popup/model
 - All types of Sort/Filter Functionality.
-- Add to cart Button.
+- All Webseries list 
+- Searching all type movies
 - Multiple Images view on Hovering over images on Products page & Quick view Page.
 
-## Screenshots
+## Learning :-
 
-"C:\Users\bansa\OneDrive\Pictures\Screenshots\Screenshot 2024-04-25 093313.png"
+We all became proficient in reading the code of team members.
+
+Our code writing style became cleaner as we had to think while writing code that other team members will be reading.
+
+We had to learn about many CSS properties that we didn't know before.
+
+Our skills in JavaScript and DOM manipulation became better.
+
+We all learned how to plan a project and execute that.
+
+  ## Screenshots
+
+![App Screenshot](./images/README%20Image/image1.png)
+
+![App Screenshot](./images/README%20Image/image2.png)
+
+![App Screenshot](./images/README%20Image/image3.png)
+
+![App Screenshot](./images/README%20Image/image4.png)
 
 
-https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
-
-
-for index.html, style.css and main.js follow up with the video.
+                                                 THANK YOU
